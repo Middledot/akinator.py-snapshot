@@ -7,6 +7,8 @@ So I'm putting the source code that I do have (from the site-packages folder) an
 
 And now the rest of the original readme:
 
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
 ===========
 akinator.py
 ===========
