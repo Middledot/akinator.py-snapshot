@@ -1,4 +1,5 @@
-# akinator.py snapshot
+akinator.py snapshot
+====================
 
 While re-installing some dependencies I found that this project just stopped existing on pypi and on github. No redirects, no reason, just gone.
 So I'm putting the source code that I do have (from the site-packages folder) and recreating a few files (LICENSE from the dist folder and setup.py based on the METADATA) so I can still use it.
